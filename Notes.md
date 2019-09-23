@@ -11,3 +11,13 @@ Your friends come to you and ask you to create a tournament tracker. They are al
 4. Schedules games.
 5. A single loss eliminates a player.
 6. The last player standing is the winner. 
+
+# Structure
+* A Windows Forms application and Class Library.
+* SQL and/or Text File
+* Users are one at a time on one application.
+
+# Key Concepts
+* Email
+* SQL
+* Custom Events
